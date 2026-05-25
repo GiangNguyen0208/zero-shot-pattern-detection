@@ -134,7 +134,7 @@ See [SYSTEM_DESIGN.md](SYSTEM_DESIGN.md) for detailed analysis.
 
 ## HuggingFace Demo
 
-Live demo: [HuggingFace Space](https://huggingface.co/spaces/GiangNguyen0208/zero-shot-pattern-detection)
+Live demo: [HuggingFace Space](https://huggingface.co/spaces/kain0208/zero-shot-pattern-detection)
 
 ## License
 

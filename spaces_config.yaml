@@ -8,5 +8,5 @@ sdk_version: "6.14.0"
 app_file: app.py
 pinned: false
 license: mit
-short_description: Detect arbitrary patterns in BOM technical drawings without training
+short_description: Zero-shot pattern detection in technical drawings
 ---
